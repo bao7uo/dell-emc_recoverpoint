@@ -1,6 +1,6 @@
-# Dell EMC RecoverPoint
+## Dell EMC RecoverPoint
 
-## Exploits for an enterprise data protection platform
+### Exploits for an enterprise data protection platform
 
 I have discovered the following vulnerabilities in the RecoverPoint enterprise data protection platform, mentioned in Dell EMC's disclosure.
 - http://seclists.org/fulldisclosure/2018/May/61
@@ -15,7 +15,7 @@ I have discovered the following vulnerabilities in the RecoverPoint enterprise d
 #### LDAP credentials in Tomcat log file (CVE-2018-1241, CVSS 6.2, medium severity)
 - In certain conditions, RecoverPoint will leak plaintext credentials into a log file.
 
-## Exploits for third party vulnerabilities
+### Exploits for third party vulnerabilities
 
 These are exploitation techniques I have found for vulnerabilities I did not discover
 
