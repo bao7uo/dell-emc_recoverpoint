@@ -2,7 +2,8 @@
 
 ## Exploits for an enterprise data protection platform
 
-I have discovered the following vulnerabilities in the RecoverPoint enterprise data protection platform.
+I have discovered the following vulnerabilities in the RecoverPoint enterprise data protection platform, mentioned in Dell EMC's disclosure.
+- http://seclists.org/fulldisclosure/2018/May/61
 
 ### Critical unauthenticated remote code execution with root privileges via unspecified attack vector (CVE-2018-1235, CVSS 9.8, critical severity)
 - Permits an attacker with visibility of a RecoverPoint device on the network to gain complete control over the underlying Linux operating system.
