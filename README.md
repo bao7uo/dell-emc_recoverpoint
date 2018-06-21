@@ -7,6 +7,8 @@ I have discovered the following vulnerabilities in the RecoverPoint enterprise d
 
 #### Critical unauthenticated remote code execution with root privileges via command injection in username (CVE-2018-1235, CVSS 9.8, critical severity)
 - Permits an attacker with visibility of a RecoverPoint device on the network to gain complete control over the underlying Linux operating system.
+- [Remote exploit here](https://github.com/bao7uo/dell-emc_recoverpoint/blob/master/EMC_RPT_CVE-2018-1235-remote.md)
+- [Local exploit here](https://github.com/bao7uo/dell-emc_recoverpoint/blob/master/EMC_RPT_CVE-2018-1235-local.md)
 
 #### Administrative menu arbitrary file read (CVE-2018-1242, CVSS 6.7, medium severity)
 - An attacker with access to the boxmgmt administrative menu can read files from the file system which are accessible to the boxmgmt user.
