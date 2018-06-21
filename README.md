@@ -21,7 +21,7 @@ I have discovered the following vulnerabilities in the RecoverPoint enterprise d
 
 These are exploitation techniques I have found for vulnerabilities I did not discover
 
-CVE-2018-1185 - An OS command injection vulnerability resulting in code execution as the built-in admin user
+#### CVE-2018-1185 - An OS command injection vulnerability resulting in code execution as the built-in admin user
 - [Exploit here](https://github.com/bao7uo/dell-emc_recoverpoint/blob/master/EMC_RPT_CVE-2018-1185.md)
 
 More to follow
