@@ -5,7 +5,7 @@
 I have discovered the following vulnerabilities in the RecoverPoint enterprise data protection platform, mentioned in Dell EMC's disclosure.
 - http://seclists.org/fulldisclosure/2018/May/61
 
-#### Critical unauthenticated remote code execution with root privileges via unspecified attack vector (CVE-2018-1235, CVSS 9.8, critical severity)
+#### Critical unauthenticated remote code execution with root privileges via command injection in username (CVE-2018-1235, CVSS 9.8, critical severity)
 - Permits an attacker with visibility of a RecoverPoint device on the network to gain complete control over the underlying Linux operating system.
 
 #### Administrative menu arbitrary file read (CVE-2018-1242, CVSS 6.7, medium severity)
